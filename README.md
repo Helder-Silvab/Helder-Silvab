@@ -1,16 +1,24 @@
-### Hi there 👋
+## About Me
 
-<!--
-**Helder-Silvab/Helder-Silvab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am a 19 year old Frontend Developer.
 
-Here are some ideas to get you started:
+## Techs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+<thead>
+  <tr>
+    <th>Main Stack</th>
+  </tr>
+</thead>
+<tbody>
+  <tr align="center">
+    <td>
+       <img src="https://skillicons.dev/icons?i=react"/>
+       <img src="https://skillicons.dev/icons?i=js"/>
+      <img src="https://skillicons.dev/icons?i=figma"/>
+      <img src="https://skillicons.dev/icons?i=html"/>
+      <img src="https://skillicons.dev/icons?i=css"/>
+    </td>
+  </tr>
+</tbody>
+</table>
