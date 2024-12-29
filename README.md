@@ -1,6 +1,6 @@
 ## About Me
 
-- I am a 19 year old Frontend Developer.
+- I am a 21 year old Frontend Developer.
 
 ## Techs
 
